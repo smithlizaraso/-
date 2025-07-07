@@ -1,7 +1,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="5;url=https://digital-solutions-peru.rdi.store/products">
+  <meta http-equiv="refresh" content="4;url=https://digital-solutions-peru.rdi.store/products">
   <title>No hay WiFi 😅</title>
   <style>
     body {
